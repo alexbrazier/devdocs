@@ -284,6 +284,16 @@ credits = [
     'MIT',
     'https://github.com/influxdata/docs.influxdata.com/blob/master/LICENSE'
   ], [
+    'Jasmine',
+    '2008-2017 Pivotal Labs',
+    'MIT',
+    'https://raw.githubusercontent.com/jasmine/jasmine/master/MIT.LICENSE'
+  ], [
+    'Jest',
+    '2014-present Facebook Inc.',
+    'BSD',
+    'https://raw.githubusercontent.com/facebook/jest/master/LICENSE'
+  ], [
     'jQuery',
     'Packt Publishing<br>&copy; jQuery Foundation and other contributors',
     'MIT',
@@ -323,6 +333,11 @@ credits = [
     '2009-2016 The Core Less Team',
     'CC BY',
     'https://creativecommons.org/licenses/by/3.0/'
+  ], [
+    'Liquid',
+    '2005, 2006 Tobias Luetke',
+    'MIT',
+    'https://raw.githubusercontent.com/Shopify/liquid/master/LICENSE'
   ], [
     'Lo-Dash',
     '2012-2016 The Dojo Foundation',
@@ -510,7 +525,7 @@ credits = [
     'https://raw.githubusercontent.com/rethinkdb/docs/master/LICENSE'
   ], [
     'Ruby',
-    '1993-2016 Yukihiro Matsumoto',
+    '1993-2017 Yukihiro Matsumoto',
     'Ruby',
     'https://www.ruby-lang.org/en/about/license.txt'
   ], [
